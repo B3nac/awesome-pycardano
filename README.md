@@ -45,4 +45,4 @@
 
 ## More
 
-- [PyCardano](https://github.com/Python-Cardano/pycardano) - The off-chain library compatible with OpShin
+- [OpShin](https://github.com/OpShin/opshin) - The onchain library compatible with PyCardano
