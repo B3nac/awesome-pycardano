@@ -21,8 +21,8 @@
 
 ## DApps
 
-[Orcfax datum demo](https://github.com/orcfax/datum-demo-opshin) - Datum demo that uses PyCardano
-[DarkHorseWallet](https://github.com/B3nac/DarkHorseWallet) - Minimal example of a desktop Cardano lightwallet 
+- [Orcfax datum demo](https://github.com/orcfax/datum-demo-opshin) - Datum demo that uses PyCardano
+- [DarkHorseWallet](https://github.com/B3nac/DarkHorseWallet) - Minimal example of a desktop Cardano lightwallet 
 
 - Add your project here!
 
