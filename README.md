@@ -39,7 +39,8 @@
 
 - [PyCardano Examples](https://github.com/Python-Cardano/pycardano/tree/main/examples) - Repository of Pycardano example scripts
 - [awesome-starter-kits](https://github.com/txpipe/awesome-starter-kits/tree/main/kits/pycardano-tutorial) - Example of how to use the PyCardano library for generating addresses, querying an address UTXOs and submit a basic transaction to transfer ADA  
-
+- [swap-pycardano](https://github.com/Charli3-Official/swap-pycardano) - Charli3's educational resource to teach the general public how to access their oracle information with Pycardano.
+ 
 ## Videos
 
 ## Libraries
