@@ -49,6 +49,8 @@
 
 ## Libraries
 
+- [iagon-py](https://github.com/theeldermillenial/iagon-py) - A Python package for storing/accessing data on Iagon, a privacy focused decentralized storage protocol on Cardano.
+
 ## More
 
 - [OpShin](https://github.com/OpShin/opshin) - The onchain library compatible with PyCardano
