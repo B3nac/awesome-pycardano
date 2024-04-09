@@ -21,6 +21,7 @@
 
 ## DApps
 
+- [minswap-py](https://github.com/theeldermillenial/minswap-py) - A Python client for interacting with Minswap DEX on Cardano
 - [Orcfax datum demo](https://github.com/orcfax/datum-demo-opshin) - Datum demo that uses PyCardano
 - [DarkHorseWallet](https://github.com/B3nac/DarkHorseWallet) - Minimal example of a desktop Cardano lightwallet 
 
