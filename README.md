@@ -22,7 +22,8 @@
 ## DApps
 
 - [minswap-py](https://github.com/theeldermillenial/minswap-py) - A Python client for interacting with Minswap DEX on Cardano
-- [nunet-py](https://github.com/theeldermillenial/nunet-py) - A Python client for NuNet 
+- [nunet-py](https://github.com/theeldermillenial/nunet-py) - A Python client for NuNet
+- [nunet-submit](https://github.com/theeldermillenial/nunet-submit) - Automated, containerized submission to NuNet
 - [Orcfax datum demo](https://github.com/orcfax/datum-demo-opshin) - Datum demo that uses PyCardano
 - [DarkHorseWallet](https://github.com/B3nac/DarkHorseWallet) - Minimal example of a desktop Cardano lightwallet 
 
