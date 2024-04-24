@@ -22,6 +22,7 @@
 ## DApps
 
 - [STEAK Protocol](https://github.com/STEAKProtocol) - Sustainable PoS randomness source on the Cardano blockchain, enhancing security and scalability 🌱🚀
+- [python-fortuna-miner](https://github.com/nielstron/python-fortuna-miner) - A miner for tuna for the light hearted, written in Python 
 - [minswap-py](https://github.com/theeldermillenial/minswap-py) - A Python client for interacting with Minswap DEX on Cardano
 - [nunet-py](https://github.com/theeldermillenial/nunet-py) - A Python client for NuNet
 - [nunet-submit](https://github.com/theeldermillenial/nunet-submit) - Automated, containerized submission to NuNet
