@@ -22,6 +22,7 @@
 ## DApps
 
 - [STEAK Protocol](https://github.com/STEAKProtocol) - Sustainable PoS randomness source on the Cardano blockchain, enhancing security and scalability 🌱🚀
+[gitgood](https://github.com/B3nac/gitgood) - Audit and track your commits with immutable git history 
 - [python-fortuna-miner](https://github.com/nielstron/python-fortuna-miner) - A miner for tuna for the light hearted, written in Python 
 - [minswap-py](https://github.com/theeldermillenial/minswap-py) - A Python client for interacting with Minswap DEX on Cardano
 - [nunet-py](https://github.com/theeldermillenial/nunet-py) - A Python client for NuNet
