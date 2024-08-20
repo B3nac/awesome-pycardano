@@ -11,6 +11,7 @@
 ---
 
 - [DApps](#DApps)
+- [SDKs](#SDKs)
 - [Tutorials](#Tutorials)
 - [Examples](#Examples)
 - [Videos](#Videos)
@@ -31,6 +32,10 @@
 - [DarkHorseWallet](https://github.com/B3nac/DarkHorseWallet) - Minimal example of a desktop Cardano lightwallet 
 
 - Add your project here!
+
+## SDKs
+
+- [charli3-dendrite](https://github.com/Charli3-Official/charli3-dendrite) - Python SDK for seamless interaction with multiple Cardano DEXs, simplifying DeFi development. 
 
 ## Tutorials
 
